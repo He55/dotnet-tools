@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.06761,
+          118.81101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "岗子村",
+        "address": "板仓街 玄武区 南京市 江苏省 210016 中国"
+      }
+    }
+  ]
+}
